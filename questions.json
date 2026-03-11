@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "q01",
+    "unit": "Unit 1: Structural Foundation (Order & System)",
+    "scenario": "Relay race",
+    "options": [
+      {
+        "label": "A",
+        "text": "Precision roles",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Individual talent",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q02",
+    "unit": "Unit 1: Structural Foundation (Order & System)",
+    "scenario": "Power outage",
+    "options": [
+      {
+        "label": "A",
+        "text": "Official dispatch",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Local mutual aid",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q03",
+    "unit": "Unit 1: Structural Foundation (Order & System)",
+    "scenario": "City planning",
+    "options": [
+      {
+        "label": "A",
+        "text": "Functional zones",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Organic chaos",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q04",
+    "unit": "Unit 1: Structural Foundation (Order & System)",
+    "scenario": "Education",
+    "options": [
+      {
+        "label": "A",
+        "text": "Norm compliance",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Individual critique",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q05",
+    "unit": "Unit 1: Structural Foundation (Order & System)",
+    "scenario": "Taxes",
+    "options": [
+      {
+        "label": "A",
+        "text": "Contribution to whole",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "External burden",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q06",
+    "unit": "Unit 1: Structural Foundation (Order & System)",
+    "scenario": "Slang",
+    "options": [
+      {
+        "label": "A",
+        "text": "Disruption of efficiency",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Evolutionary creativity",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q07",
+    "unit": "Unit 1: Structural Foundation (Order & System)",
+    "scenario": "Law",
+    "options": [
+      {
+        "label": "A",
+        "text": "Value consensus",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Conflict management",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q08",
+    "unit": "Unit 1: Structural Foundation (Order & System)",
+    "scenario": "Holidays",
+    "options": [
+      {
+        "label": "A",
+        "text": "Collective solidarity",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Functional rest",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q09",
+    "unit": "Unit 1: Structural Foundation (Order & System)",
+    "scenario": "Landmarks",
+    "options": [
+      {
+        "label": "A",
+        "text": "Organizational power",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Individual sacrifice",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q10",
+    "unit": "Unit 1: Structural Foundation (Order & System)",
+    "scenario": "Bridge",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rules for public good",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Rules for resource holders",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q11",
+    "unit": "Unit 2: Phantom of Power (Power & Inequality)",
+    "scenario": "Security guards",
+    "options": [
+      {
+        "label": "A",
+        "text": "Order & Safety",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Social exclusion",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q12",
+    "unit": "Unit 2: Phantom of Power (Power & Inequality)",
+    "scenario": "Jargon",
+    "options": [
+      {
+        "label": "A",
+        "text": "Professional depth",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Symbolic dominance",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q13",
+    "unit": "Unit 2: Phantom of Power (Power & Inequality)",
+    "scenario": "Elite life",
+    "options": [
+      {
+        "label": "A",
+        "text": "Individual willpower",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Invisible resources",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q14",
+    "unit": "Unit 2: Phantom of Power (Power & Inequality)",
+    "scenario": "Etiquette",
+    "options": [
+      {
+        "label": "A",
+        "text": "Social lubricant",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Invisible shackles",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q15",
+    "unit": "Unit 2: Phantom of Power (Power & Inequality)",
+    "scenario": "Charity",
+    "options": [
+      {
+        "label": "A",
+        "text": "Responsibility",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Calculated PR",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q16",
+    "unit": "Unit 2: Phantom of Power (Power & Inequality)",
+    "scenario": "\"Old Money\" style",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quality pursuit",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Class distinction",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q17",
+    "unit": "Unit 2: Phantom of Power (Power & Inequality)",
+    "scenario": "Flat orgs",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ideal equality",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Hidden power",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q18",
+    "unit": "Unit 2: Phantom of Power (Power & Inequality)",
+    "scenario": "CCTV",
+    "options": [
+      {
+        "label": "A",
+        "text": "Protection",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Surveillance",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q19",
+    "unit": "Unit 2: Phantom of Power (Power & Inequality)",
+    "scenario": "Expensive gifts",
+    "options": [
+      {
+        "label": "A",
+        "text": "Generosity",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Symbolic debt",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q20",
+    "unit": "Unit 2: Phantom of Power (Power & Inequality)",
+    "scenario": "Bridge",
+    "options": [
+      {
+        "label": "A",
+        "text": "Duty to norms",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Social dramaturgy",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q21",
+    "unit": "Unit 3: Theater of Meaning (Interaction & Symbolism)",
+    "scenario": "Social masks",
+    "options": [
+      {
+        "label": "A",
+        "text": "Stage roles",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Inauthenticity",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q22",
+    "unit": "Unit 3: Theater of Meaning (Interaction & Symbolism)",
+    "scenario": "Elevator silence",
+    "options": [
+      {
+        "label": "A",
+        "text": "Civil inattention",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Urban coldness",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q23",
+    "unit": "Unit 3: Theater of Meaning (Interaction & Symbolism)",
+    "scenario": "Table manners",
+    "options": [
+      {
+        "label": "A",
+        "text": "Identity ritual",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Redundant tradition",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q24",
+    "unit": "Unit 3: Theater of Meaning (Interaction & Symbolism)",
+    "scenario": "Social media",
+    "options": [
+      {
+        "label": "A",
+        "text": "Impression management",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Self-recording",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q25",
+    "unit": "Unit 3: Theater of Meaning (Interaction & Symbolism)",
+    "scenario": "First meeting",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cues & Vibes",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Institutional background",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q26",
+    "unit": "Unit 3: Theater of Meaning (Interaction & Symbolism)",
+    "scenario": "Public crying",
+    "options": [
+      {
+        "label": "A",
+        "text": "Personal narrative",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Normative breach",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q27",
+    "unit": "Unit 3: Theater of Meaning (Interaction & Symbolism)",
+    "scenario": "Titles",
+    "options": [
+      {
+        "label": "A",
+        "text": "First names (Fluid)",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Honorifics (Structure)",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q28",
+    "unit": "Unit 3: Theater of Meaning (Interaction & Symbolism)",
+    "scenario": "Bad gifts",
+    "options": [
+      {
+        "label": "A",
+        "text": "Relationship maintenance",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Material value",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q29",
+    "unit": "Unit 3: Theater of Meaning (Interaction & Symbolism)",
+    "scenario": "Silence",
+    "options": [
+      {
+        "label": "A",
+        "text": "Symbolic signal",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Communication breakdown",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q30",
+    "unit": "Unit 3: Theater of Meaning (Interaction & Symbolism)",
+    "scenario": "Bridge",
+    "options": [
+      {
+        "label": "A",
+        "text": "Meaning-making",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Rational calculation",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q31",
+    "unit": "Unit 4: Iron Cage (Rationalization & Tech)",
+    "scenario": "GPS navigation",
+    "options": [
+      {
+        "label": "A",
+        "text": "Algorithmic efficiency",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Intuitive path",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q32",
+    "unit": "Unit 4: Iron Cage (Rationalization & Tech)",
+    "scenario": "Schedule",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mastery & Order",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Suffocation",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q33",
+    "unit": "Unit 4: Iron Cage (Rationalization & Tech)",
+    "scenario": "Standardized tests",
+    "options": [
+      {
+        "label": "A",
+        "text": "Meritocratic fairness",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Erasure of richness",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q34",
+    "unit": "Unit 4: Iron Cage (Rationalization & Tech)",
+    "scenario": "Smart home",
+    "options": [
+      {
+        "label": "A",
+        "text": "Total liberation",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Loss of agency",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q35",
+    "unit": "Unit 4: Iron Cage (Rationalization & Tech)",
+    "scenario": "KPIs",
+    "options": [
+      {
+        "label": "A",
+        "text": "Objective metric",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Dehumanized data",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q36",
+    "unit": "Unit 4: Iron Cage (Rationalization & Tech)",
+    "scenario": "Dating apps",
+    "options": [
+      {
+        "label": "A",
+        "text": "Optimized matching",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Romantic unpredictability",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q37",
+    "unit": "Unit 4: Iron Cage (Rationalization & Tech)",
+    "scenario": "Insurance",
+    "options": [
+      {
+        "label": "A",
+        "text": "Risk management",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Psychological safety",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q38",
+    "unit": "Unit 4: Iron Cage (Rationalization & Tech)",
+    "scenario": "Data footprint",
+    "options": [
+      {
+        "label": "A",
+        "text": "Personalization",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Objectification",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q39",
+    "unit": "Unit 4: Iron Cage (Rationalization & Tech)",
+    "scenario": "Fast food",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rationalized quality",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Loss of ritual",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q40",
+    "unit": "Unit 4: Iron Cage (Rationalization & Tech)",
+    "scenario": "Bridge",
+    "options": [
+      {
+        "label": "A",
+        "text": "Scientific certainty",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Fragile tremor",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q41",
+    "unit": "Unit 5: Tremor of Boundaries (Contemporary Risk)",
+    "scenario": "One-career life",
+    "options": [
+      {
+        "label": "A",
+        "text": "Identity security",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Stagnation",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q42",
+    "unit": "Unit 5: Tremor of Boundaries (Contemporary Risk)",
+    "scenario": "Climate change",
+    "options": [
+      {
+        "label": "A",
+        "text": "Distant disaster",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Global risk society",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q43",
+    "unit": "Unit 5: Tremor of Boundaries (Contemporary Risk)",
+    "scenario": "Digital nomads",
+    "options": [
+      {
+        "label": "A",
+        "text": "True freedom",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Precarious connectivity",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q44",
+    "unit": "Unit 5: Tremor of Boundaries (Contemporary Risk)",
+    "scenario": "AI art",
+    "options": [
+      {
+        "label": "A",
+        "text": "Broken barriers",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Threat to humanity",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q45",
+    "unit": "Unit 5: Tremor of Boundaries (Contemporary Risk)",
+    "scenario": "Gender fluidity",
+    "options": [
+      {
+        "label": "A",
+        "text": "Diverse inclusion",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Cognitive burden",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q46",
+    "unit": "Unit 5: Tremor of Boundaries (Contemporary Risk)",
+    "scenario": "Competency",
+    "options": [
+      {
+        "label": "A",
+        "text": "Specialization",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Interdisciplinary agility",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q47",
+    "unit": "Unit 5: Tremor of Boundaries (Contemporary Risk)",
+    "scenario": "Crypto",
+    "options": [
+      {
+        "label": "A",
+        "text": "Risk bubble",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Institutional challenge",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q48",
+    "unit": "Unit 5: Tremor of Boundaries (Contemporary Risk)",
+    "scenario": "Privacy",
+    "options": [
+      {
+        "label": "A",
+        "text": "Collective safety",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Individual boundary",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q49",
+    "unit": "Unit 5: Tremor of Boundaries (Contemporary Risk)",
+    "scenario": "Online intimacy",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pure souls",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Virtual phantom",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "q50",
+    "unit": "Unit 5: Tremor of Boundaries (Contemporary Risk)",
+    "scenario": "Global ties",
+    "options": [
+      {
+        "label": "A",
+        "text": "Relational nodes",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      },
+      {
+        "label": "B",
+        "text": "Uncontrollable danger",
+        "effects": {
+          "scale": 0.0,
+          "force": 0.0,
+          "order": 0.0,
+          "stance": 0.0
+        }
+      }
+    ]
+  }
+]
